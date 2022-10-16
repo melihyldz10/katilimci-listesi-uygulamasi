@@ -1,0 +1,13 @@
+C:\Users\melih\source\repos\GP3\GP3\bin\Debug\GP3.exe.config
+C:\Users\melih\source\repos\GP3\GP3\bin\Debug\GP3.exe
+C:\Users\melih\source\repos\GP3\GP3\bin\Debug\GP3.pdb
+C:\Users\melih\source\repos\GP3\GP3\bin\Debug\Guna.UI.dll
+C:\Users\melih\source\repos\GP3\GP3\obj\Debug\GP3.csprojAssemblyReference.cache
+C:\Users\melih\source\repos\GP3\GP3\obj\Debug\GP3.Form1.resources
+C:\Users\melih\source\repos\GP3\GP3\obj\Debug\GP3.Form2.resources
+C:\Users\melih\source\repos\GP3\GP3\obj\Debug\GP3.Properties.Resources.resources
+C:\Users\melih\source\repos\GP3\GP3\obj\Debug\GP3.csproj.GenerateResource.cache
+C:\Users\melih\source\repos\GP3\GP3\obj\Debug\GP3.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\GP3\GP3\obj\Debug\GP3.csproj.CopyComplete
+C:\Users\melih\source\repos\GP3\GP3\obj\Debug\GP3.exe
+C:\Users\melih\source\repos\GP3\GP3\obj\Debug\GP3.pdb
